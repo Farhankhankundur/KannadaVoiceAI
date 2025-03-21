@@ -1,4 +1,4 @@
-# KannadaVoiceAI-Gradio-Based Speech Processing System
+# KannadaVoiceAI - Gradio-Based Speech Processing System
 
 ## Overview
 This project is a Gradio-based web application that integrates multiple AI-powered speech processing features, including:
@@ -45,9 +45,6 @@ Once the server starts, access the Gradio interface via the provided URL.
 
 ## Contributing
 Feel free to contribute by submitting issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
 
 ## Author
 Farhan Khan K A
